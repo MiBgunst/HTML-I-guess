@@ -1,0 +1,10 @@
+Sea un objeto HTML definido por <x>, este es contenido en <x></x>
+
+Propiedades Y del objeto x se declaran en <x Y></x>
+
+Para declarar una regla de propiedades se define un <style> cuyo contenido declara opciones Y predeterminadas para los objetos del tipo x
+de modo que: x{y}. Estas son sobreescritas si el objeto apuntado se le dan sus propiedades Z individuales o si hay un nuevo estilo mas abajo para el mismo tipo de objeto
+
+Tambien se pueden declarar estilos con propiedades especificas asignables no a tipo sino a los objetos que posean esta clase. Estas propiedades pueden sobreponerse o sobreescribirse entre si
+
+Un objeto Span es una caja en blanco sin estilo (o que hereda el estilo del objeto en el que se encuentra) que se puede usar como objeto selector dentro de otros objetos. Este puede ser estilizado para dar propiedades al contenido seleccionado en un objeto
