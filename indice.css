@@ -1,5 +1,24 @@
 @font-face {
     font-family: 'odibee_sansregular';
+    src: url('C:\Users\Usuario\Desktop\HTML-I-guess\fontsodibeesans-regular-webfont.woff2') format('woff2'),
+         url('C:\Users\Usuario\Desktop\HTML-I-guess\fontsfonts/odibeesans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+@font-face {
+    font-family: 'baloo_tammudu_2regular';
+    src: url('C:\Users\Usuario\Desktop\HTML-I-guess\fontsbalootammudu2-regular-webfont.woff2') format('woff2'),
+         url('C:\Users\Usuario\Desktop\HTML-I-guess\fontsbalootammudu2-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'odibee_sansregular';
     src: url('https://mibgunst.github.io/HTML-I-guess/fonts/odibeesans-regular-webfont.woff2') format('woff2'),
          url('https://mibgunst.github.io/HTML-I-guess/fonts/odibeesans-regular-webfont.woff') format('woff');
     font-weight: normal;
@@ -16,6 +35,7 @@
     font-weight: normal;
     font-style: normal;
 }
+
 .move_right{display: inline-block; vertical-align: top;}
 .center {display: block; margin-left: auto; margin-right: auto; width: 50%;}
-h1{font-family: 'odibeesans-regular-webfont', Arial, sans-serif;
+h1{font-family: v
