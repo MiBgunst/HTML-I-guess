@@ -38,4 +38,12 @@
 
 .move_right{display: inline-block; vertical-align: top;}
 .center {display: block; margin-left: auto; margin-right: auto; width: 50%;}
-h1{font-family: v
+.vertical-center {margin-top: "50"}
+.rounded {border-radius: 100px;}
+.edge-trim {border-radius: 10px;}
+.space{margin-top: 100px;}
+.list-item{font-size: 20px;}
+h1{font-family: 'odibee_sansregular'; font-size: 60px;}
+h2{font-family: 'odibee_sansregular'; font-size: 40px;}
+p{font-family: 'baloo_tammudu_2regular';}
+li{font-family: 'baloo_tammudu_2regular'; font-size: 20px;}
