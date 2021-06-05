@@ -39,11 +39,22 @@
 .move_right{display: inline-block; vertical-align: top;}
 .center {display: block; margin-left: auto; margin-right: auto; width: 50%;}
 .vertical-center {margin-top: "50"}
-.rounded {border-radius: 100px;}
+.rounded {border-radius: 100px; border-color: aquamarine; border: 5px solid aquamarine}
 .edge-trim {border-radius: 10px;}
 .space{margin-top: 100px;}
 .list-item{font-size: 20px;}
-h1{font-family: 'odibee_sansregular'; font-size: 60px;}
+.square{background-color: white;}
+
+header{background-image: url("img/headerbg.png");}
+
+body{background-color: #b50043;}
+
+footer{background-color: #b50043;}
+
+
+
+
+h1{font-family: 'odibee_sansregular'; font-size: 60px; text-shadow: 2px 2px white;}
 h2{font-family: 'odibee_sansregular'; font-size: 40px;}
-p{font-family: 'baloo_tammudu_2regular';}
+p{font-family: 'baloo_tammudu_2regular'; text-shadow: 1px 1px white;}
 li{font-family: 'baloo_tammudu_2regular'; font-size: 20px;}
